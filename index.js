@@ -5,3 +5,4 @@ welcomeMessage = welcomeMessage + currentUser + "!";
 let excitedWelcomeMessage = "WELCOME TO FLATBOOK, ";
 excitedWelcomeMessage = excitedWelcomeMessage + currentUser.toUpperCase() + "!";
 let shortGreeting = "Welcome, ";
+shortGreeting = shortGreeting + currentUser.charAt(0) + "!";
